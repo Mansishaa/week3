@@ -19,5 +19,5 @@ https://www.wto.org/spanish/res_s/statis_s/statis_maps_s.htm?country_selected=DE
 Red de exportaciones:
 ![Descripción de la imagen](trade_network.png)
 
-Comportamiento dee los nodos:
+Comportamiento de los nodos:
 ![Descripción de la imagen](Caracteristicas.png)
