@@ -21,3 +21,6 @@ Red de exportaciones:
 
 Comportamiento de los nodos:
 ![Descripción de la imagen](Caracteristicas.png)
+
+Redes de comportamiento:
+![Descripción de la imagen](Redes_comundiades.png.jpg)
